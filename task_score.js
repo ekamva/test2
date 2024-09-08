@@ -9,7 +9,7 @@
 
 let introductionResults = 38;
 let gitResults = 77;
-let jsResults = 65;
+let jsResults = 68;
 
 let allRsults = (introductionResults + gitResults + jsResults);
 
